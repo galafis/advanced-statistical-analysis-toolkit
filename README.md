@@ -1,5 +1,10 @@
 # Advanced Statistical Analysis Toolkit
 
+![R](https://img.shields.io/badge/R-4.0%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Statistics](https://img.shields.io/badge/Statistics-Advanced-purple)
+
 [English](#english) | [Português](#português)
 
 ---
