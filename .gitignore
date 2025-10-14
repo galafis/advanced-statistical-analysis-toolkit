@@ -1,9 +1,58 @@
+# Python
 *.pyc
 __pycache__/
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.venv/
+venv/
+ENV/
+env/
+
+# R
 .Rhistory
 .RData
 .Rproj.user/
-venv/
+*.Rproj
+.Rdata
+.httr-oauth
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
 *.log
-data/*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (keep structure, ignore large files)
+data/results/*.png
+data/results/*.pdf
+data/results/*.html
+data/results/*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Keep important data files
+!data/sample_datasets/*.csv
 !data/.gitkeep
+!data/sample_datasets/.gitkeep
